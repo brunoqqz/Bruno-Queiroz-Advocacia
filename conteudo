@@ -1,0 +1,32 @@
+<header>
+    <h1>Bruno Queiroz</h1>
+    <p>Advocacia</p>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#atuacao">Áreas de atuação</a>
+    <a href="#contato">Contato</a>
+</nav>
+
+<main>
+
+    <section id="sobre">
+        <h2>Sobre</h2>
+        <p>
+            Informações profissionais...
+        </p>
+    </section>
+
+    <section id="atuacao">
+        <h2>Áreas de atuação</h2>
+        <p>Direito Administrativo</p>
+        <p>Direito Civil</p>
+        <p>Direito do Trabalho</p>
+    </section>
+
+</main>
+
+<footer>
+    <p>© 2026 Bruno Queiroz</p>
+</footer>
